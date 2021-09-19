@@ -2,6 +2,7 @@
 ## Welcome to Kan's github.
 I'm Kan Boorodom. \
 I graduated from Srinakharinwirot University with a Bachelor's Degree of science. \
+I use to be a nutritionist but also interesting in coding. \
 Now I'm a third year computer science student at Ramkamheang University and National Institute of Development Administration. \
 I'm looking for a frontend developer internship. 
 # My latest project 
