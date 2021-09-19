@@ -1,4 +1,4 @@
-# Hello there.. 
+# Hello there.. 👋
 ## Welcome to Kan's github.
 I'm Kan Boorodom. \
 I graduated from Srinakharinwirot University with a Bachelor's Degree of science. \
