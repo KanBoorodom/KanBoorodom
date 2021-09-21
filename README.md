@@ -6,6 +6,8 @@ I use to be a nutritionist but also interesting in coding. \
 Now I'm a third year computer science student at Ramkamheang University and National Institute of Development Administration. \
 I'm looking for a frontend developer internship. 
 # My latest project 
+## <a href="https://github.com/KanBoorodom/Portfolio">My portfolio website</a>
+![image](https://user-images.githubusercontent.com/78006318/134113028-6b4d1861-2451-4665-a1e6-188b8c31f9f1.png)
 ## <a href="https://github.com/KanBoorodom/cryptocurrency">Crypto currency </a>
 Live test at https://kanboorodom.github.io/cryptocurrency/ \
 ![image](https://user-images.githubusercontent.com/78006318/133873300-0c598be6-352f-4700-90a7-4a746ec504da.png)
