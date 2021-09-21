@@ -7,7 +7,7 @@ Now I'm a third year computer science student at Ramkamheang University and Nati
 I'm looking for a frontend developer internship. 
 # My latest project 
 ## <a href="https://github.com/KanBoorodom/Portfolio">My portfolio website</a>
-![image](https://user-images.githubusercontent.com/78006318/134119149-47cfa4da-6705-44e2-a0ac-bd93798e9090.png)
+![image](https://user-images.githubusercontent.com/78006318/134158240-36e410b0-79b0-4714-9014-1a2b2c2fd9af.png)
 ## <a href="https://github.com/KanBoorodom/cryptocurrency">Crypto currency </a>
 Live test at https://kanboorodom.github.io/cryptocurrency/ \
 ![image](https://user-images.githubusercontent.com/78006318/133873300-0c598be6-352f-4700-90a7-4a746ec504da.png)
